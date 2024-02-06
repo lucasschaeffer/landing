@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(0deg, #f68834 0%, rgba(255,255,255,1) 55%);
+}
+
+.socials {
+  color: #112D4E;
+  font-size: 45px;
+}
+
+.socials:hover {
+  color: #F16327;
+}

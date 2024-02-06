@@ -1,0 +1,29 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url("https://fonts.googleapis.com/css2?family=Alexandria:wght@500&display=swap");
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Alexandria;
+  color: #112D4E;
+}
+
+h1, h2, h3, h4 {
+  color: #112D4E;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Custom design below! */
